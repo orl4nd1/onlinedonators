@@ -1,0 +1,5 @@
+name: OnlineDonators
+version: 1.0.7
+main: ar.com.histeriaservers.OnlineDonators.Main
+author: orl4nd1
+depend: [Vault]
