@@ -1,4 +1,4 @@
-# onlinedonators
+# Online Donators 💎
 
 Compiled with:
  - PaperSpigot 1.7.10 (Support 1.8)
